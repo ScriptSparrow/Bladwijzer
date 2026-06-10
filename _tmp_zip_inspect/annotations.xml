@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>4092993</id>
+      <size>50</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-06-09 09:44:25.665380+00:00</created>
+      <updated>2026-06-09 10:35:01.255840+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>49</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>4091175</id>
+          <start>0</start>
+          <stop>49</stop>
+          <url>https://app.cvat.ai/api/jobs/4092993/dataset/export/api/jobs/4092993</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>JurgenJ</username>
+        <email>jurgen-gw@live.nl</email>
+      </owner>
+      <assignee>
+        <username>CookieMonsterXL</username>
+        <email>rvanopbergen@outlook.com</email>
+      </assignee>
+      <labels>
+        <label>
+          <name>label_berenklauw</name>
+          <color>#cc3366</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>label_madeliefje</name>
+          <color>#ffcc33</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2026-06-09 11:25:32.031886+00:00</dumped>
+  </meta>
+  <image id="0" name="Berenklauw#001.png" width="259" height="194">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="1.83" ytl="40.97" xbr="210.12" ybr="143.71" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="Berenklauw#002.png" width="640" height="360">
+  </image>
+  <image id="2" name="Berenklauw#003.png" width="1024" height="683">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="208.57" ytl="62.45" xbr="745.67" ybr="616.73" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="Berenklauw#004.png" width="800" height="600">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="136.60" ytl="39.37" xbr="648.94" ybr="311.03" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="Berenklauw#005.png" width="612" height="408">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="30.53" ytl="27.30" xbr="376.04" ybr="226.99" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="Berenklauw#006.png" width="275" height="183">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="175.91" ytl="37.44" xbr="270.80" ybr="146.86" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="93.93" ytl="31.95" xbr="174.30" ybr="115.87" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="10.01" ytl="9.04" xbr="91.34" ybr="76.50" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="Berenklauw#007.png" width="1050" height="700">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="402.34" ytl="218.10" xbr="654.98" ybr="368.45" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="341.96" ytl="151.55" xbr="488.61" ybr="223.03" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="232.27" ytl="310.53" xbr="431.92" ybr="432.54" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="123.82" ytl="236.59" xbr="255.69" ybr="306.83" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="431.92" ytl="511.41" xbr="572.41" ybr="624.79" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="752.34" ytl="172.50" xbr="905.16" ybr="248.91" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="905.16" ytl="308.06" xbr="1039.49" ybr="369.68" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="5.51" ytl="252.61" xbr="120.12" ybr="300.67" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="Berenklauw#008.png" width="600" height="450">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="178.52" ytl="46.13" xbr="460.92" ybr="236.97" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="Berenklauw#009.png" width="612" height="459">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="42.02" ytl="46.69" xbr="359.51" ybr="395.07" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="Berenklauw#010.png" width="800" height="730">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="624.41" ytl="193.15" xbr="759.62" ybr="287.98" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="49.30" ytl="192.21" xbr="360.09" ybr="364.04" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="248.83" ytl="70.14" xbr="415.96" ybr="187.51" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="20.66" ytl="128.36" xbr="231.92" ybr="189.39" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="Berenklauw#011.png" width="640" height="360">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="193.03" ytl="16.96" xbr="461.20" ybr="180.71" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="44.30" ytl="118.37" xbr="188.53" ybr="273.86" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="395.85" ytl="192.73" xbr="528.06" ybr="273.11" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="Berenklauw#012.png" width="600" height="800">
+  </image>
+  <image id="12" name="Berenklauw#013.png" width="1440" height="810">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="32.11" ytl="6.09" xbr="1426.48" ybr="807.21" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="Berenklauw#014.png" width="640" height="427">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="28.53" ytl="65.11" xbr="623.46" ybr="331.78" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="Berenklauw#015.png" width="250" height="304">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="9.11" ytl="98.60" xbr="85.99" ybr="169.03" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="87.45" ytl="28.18" xbr="212.75" ybr="145.26" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="146.73" ytl="147.61" xbr="227.71" ybr="223.31" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="Berenklauw#016.png" width="640" height="480">
+  </image>
+  <image id="16" name="Berenklauw#017.png" width="800" height="1068">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="82.05" ytl="78.05" xbr="659.83" ybr="475.93" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="Berenklauw#018.png" width="259" height="194">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="82.83" ytl="46.53" xbr="193.48" ybr="163.57" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="Berenklauw#019.png" width="1559" height="2662">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="543.34" ytl="19.00" xbr="1010.73" ybr="500.63" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="Berenklauw#020.png" width="1080" height="1080">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="545.03" ytl="210.38" xbr="839.11" ybr="512.07" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="850.52" ytl="119.11" xbr="1072.35" ybr="489.25" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="5.03" ytl="242.07" xbr="400.52" ybr="576.72" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="Berenklauw#021.png" width="1536" height="1030">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="93.76" ytl="148.92" xbr="1359.33" ybr="1019.86" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="Berenklauw#022.png" width="773" height="436">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="227.30" ytl="298.79" xbr="466.82" ybr="434.88" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="623.78" ytl="344.15" xbr="727.20" ybr="423.99" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="180.12" ytl="252.52" xbr="251.79" ybr="296.07" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="299.88" ytl="212.60" xbr="364.29" ybr="268.85" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="573.51" ytl="252.91" xbr="682.86" ybr="332.60" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="394.37" ytl="187.77" xbr="453.70" ybr="236.05" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="489.18" ytl="202.31" xbr="543.27" ybr="261.06" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="177.42" ytl="193.59" xbr="222.78" ybr="230.81" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="Berenklauw#023.png" width="900" height="661">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="36.91" ytl="31.49" xbr="746.61" ybr="652.48" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="Berenklauw#024.png" width="1417" height="945">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="304.99" ytl="39.08" xbr="1100.39" ybr="941.09" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="Berenklauw#025.png" width="1280" height="960">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="175.81" ytl="122.65" xbr="618.85" ybr="473.23" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="667.97" ytl="120.72" xbr="1164.95" ybr="605.18" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="Berenklauw#026.png" width="2592" height="1944">
+  </image>
+  <image id="26" name="Berenklauw#027.png" width="817" height="545">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="227.45" ytl="116.05" xbr="480.11" ybr="542.69" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="Berenklauw#028.png" width="401" height="720">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="102.00" ytl="161.74" xbr="342.00" ybr="494.15" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="Berenklauw#029.png" width="640" height="360">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="283.39" ytl="148.22" xbr="392.23" ybr="232.97" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="238.13" ytl="83.69" xbr="346.48" ybr="129.92" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="367.19" ytl="84.17" xbr="466.87" ybr="127.03" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="159.63" ytl="82.24" xbr="231.87" ybr="127.99" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="Berenklauw#030.png" width="612" height="459">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="68.82" ytl="114.14" xbr="319.79" ybr="395.50" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="Berenklauw#031.png" width="3072" height="2304">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="398.78" ytl="870.09" xbr="2980.74" ybr="2173.79" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="382.60" ytl="24.08" xbr="1852.72" ybr="849.29" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="22.00" ytl="384.45" xbr="366.42" ybr="1489.58" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="Berenklauw#032.png" width="1536" height="1024">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="260.66" ytl="245.06" xbr="1046.58" ybr="1003.24" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="947.18" ytl="79.79" xbr="1274.26" ybr="242.75" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="Berenklauw#033.png" width="1919" height="1080">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="828.87" ytl="43.22" xbr="1705.35" ybr="430.20" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="336.49" ytl="661.23" xbr="1246.17" ybr="1058.32" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="1299.45" ytl="450.42" xbr="1897.39" ybr="844.61" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="Berenklauw#034.png" width="388" height="517">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="187.07" ytl="94.22" xbr="387.05" ybr="241.21" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="2.29" ytl="66.11" xbr="170.02" ybr="230.61" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="201.81" ytl="288.21" xbr="290.28" ybr="408.93" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="Berenklauw#035.png" width="640" height="360">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="135.07" ytl="30.24" xbr="301.69" ybr="252.24" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="Berenklauw#036.png" width="640" height="359">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="106.66" ytl="61.30" xbr="569.93" ybr="285.71" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="Berenklauw#037.png" width="1280" height="640">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="898.16" ytl="97.51" xbr="1255.48" ybr="331.55" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="151.73" ytl="102.33" xbr="733.47" ybr="332.51" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="10.15" ytl="338.29" xbr="229.75" ybr="635.90" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="750.80" ytl="139.89" xbr="1019.51" ybr="539.59" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="317.39" ytl="241.98" xbr="910.68" ybr="631.08" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="Berenklauw#038.png" width="2500" height="3333">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="602.55" ytl="301.63" xbr="2384.90" ybr="1881.98" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="563.93" ytl="2285.98" xbr="1591.76" ybr="2856.34" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="Berenklauw#039.png" width="194" height="259">
+  </image>
+  <image id="39" name="Berenklauw#040.png" width="920" height="613">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="21.83" ytl="2.24" xbr="885.06" ybr="601.72" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="687.77" ytl="88.77" xbr="903.75" ybr="200.91" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="153.35" ytl="3.62" xbr="666.31" ybr="220.29" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="Berenklauw#041.png" width="1394" height="1976">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="526.15" ytl="109.11" xbr="1257.02" ybr="639.22" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="152.79" ytl="410.27" xbr="455.70" ybr="721.99" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="513.82" ytl="84.46" xbr="1341.56" ybr="1398.27" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="709.31" ytl="776.58" xbr="1080.91" ybr="1128.81" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="1107.33" ytl="648.02" xbr="1336.27" ybr="924.52" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="24.22" ytl="1035.47" xbr="348.27" ybr="1364.81" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="Berenklauw#042.png" width="1024" height="768">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="11.91" ytl="294.60" xbr="167.55" ybr="458.72" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="762.38" ytl="265.32" xbr="930.35" ybr="483.38" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="477.29" ytl="125.86" xbr="583.62" ybr="258.39" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="727.70" ytl="147.44" xbr="832.49" ybr="260.70" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="220.71" ytl="142.81" xbr="330.12" ybr="412.49" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="Berenklauw#043.png" width="1280" height="640">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="70.83" ytl="4.09" xbr="1273.78" ybr="637.83" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="Berenklauw#044.png" width="259" height="194">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="96.66" ytl="37.57" xbr="199.16" ybr="175.15" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="1.36" ytl="50.21" xbr="75.41" ybr="94.28" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="55.53" ytl="84.92" xbr="139.14" ybr="145.92" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="166.23" ytl="75.16" xbr="252.95" ybr="128.58" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="204.43" ytl="40.10" xbr="258.60" ybr="79.66" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="Berenklauw#045.png" width="750" height="430">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="196.12" ytl="251.70" xbr="265.53" ybr="307.01" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="Berenklauw#046.png" width="1200" height="706">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="131.40" ytl="301.51" xbr="285.80" ybr="413.48" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="675.87" ytl="244.63" xbr="844.72" ybr="440.56" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="964.81" ytl="415.28" xbr="1130.95" ybr="547.11" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="600.02" ytl="482.10" xbr="726.43" ybr="550.72" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="81.74" ytl="298.80" xbr="128.69" ybr="336.73" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="3.09" ytl="380.97" xbr="115.15" ybr="487.52" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="Berenklauw#047.png" width="849" height="537">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="3.85" ytl="43.96" xbr="808.13" ybr="537.00" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="Berenklauw#048.png" width="800" height="600">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="11.73" ytl="124.84" xbr="434.91" ybr="505.88" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="463.80" ytl="148.31" xbr="747.92" ybr="389.70" z_order="0">
+    </box>
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="191.11" ytl="0.23" xbr="551.69" ybr="120.02" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="Berenklauw#049.png" width="225" height="225">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="23.96" ytl="55.65" xbr="184.19" ybr="207.65" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="Berenklauw#050.png" width="905" height="424">
+    <box label="label_berenklauw" source="manual" occluded="0" xtl="11.59" ytl="16.50" xbr="896.17" ybr="420.38" z_order="0">
+    </box>
+  </image>
+</annotations>
